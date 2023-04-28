@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Software Engineer🌱
 
 ##### [My Timetable](https://docs.google.com/spreadsheets/d/1NatkXKymi7UQxG9Sxzpyy_nwdvJGKwVtd324zF9Hhag/edit?usp=sharing)
 
