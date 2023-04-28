@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ##### [My amount of study & sleep](https://docs.google.com/spreadsheets/d/1yfV9XfLFBks3m2u2yaWOKPE4b_78ZCRE-adM2EpNUAE/edit?usp=sharing)
 
-##### My BaekJoon stats
+<!-- ##### My BaekJoon stats
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanso)](https://solved.ac/sanso)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanso)](https://solved.ac/sanso) -->
